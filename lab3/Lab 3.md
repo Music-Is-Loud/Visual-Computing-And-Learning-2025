@@ -401,4 +401,3 @@ if(inshadow) continue;
   <br>
   <em>Figure 16:oak tree with shadow</em>
 </p>
-
